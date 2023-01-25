@@ -1,0 +1,16 @@
+{
+    "name": "cachesistemas/google-authenticator",
+    "description": "Google Authenticator",
+    "autoload": {
+        "psr-4": {
+            "Cachesistemas\\GoogleAuthenticator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raphael Serafim",
+            "email": "raphaelvserafim@gmail.com"
+        }
+    ],
+    "require": {}
+}
