@@ -5,6 +5,8 @@ namespace Cachesistemas\GoogleAuthenticator;
 
 class GoogleAuthenticator
 {
+
+	
 	protected $_codeLength = 6;
 
 	public function createSecret($secretLength = 16)
