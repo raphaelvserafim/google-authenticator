@@ -1,6 +1,9 @@
 {
     "name": "cachesistemas/google-authenticator",
     "description": "Google Authenticator",
+    "type": "library",
+    "homepage": "https://github.com/raphaelvserafim/google-authenticator",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Cachesistemas\\GoogleAuthenticator\\": "src/"
@@ -12,5 +15,5 @@
             "email": "raphaelvserafim@gmail.com"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev"
 }
